@@ -210,6 +210,7 @@ static NSInteger pMinor = 2895;
     switch (beacon.proximity) {
         case CLProximityImmediate:
             proximityString = @"IMMEDIATE";
+            NSLog(@"Beacon found IMMEDIATE proximity");
             cell.backgroundColor = [UIColor redColor];
             break;
         case CLProximityNear:
