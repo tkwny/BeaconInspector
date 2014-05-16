@@ -5,13 +5,13 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C69F23FA-6F6C-41D2-9FD5-7DA049D6DCEF</string>
+	<string>BB43155E-6552-4A58-9C6A-50EEA1786DC5</string>
 	<key>IDESourceControlProjectName</key>
 	<string>BeaconInspector</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>64EFA763-31CF-4EDF-8BEA-58938F0F8607</key>
-		<string>file:///Users/randy/dev/iOS7/BeaconInspector/</string>
+		<key>693B4791-692C-4DBB-BF82-5C9BE3503BAB</key>
+		<string>file:///Users/randy/dev/iOS7/BeaconInspector</string>
 		<key>991AFBA5-39E2-40CF-AF54-6933FA866C34</key>
 		<string>https://github.com/tkwny/BeaconInspector.git</string>
 	</dict>
@@ -19,13 +19,13 @@
 	<string>BeaconInspector/BeaconInspector.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>64EFA763-31CF-4EDF-8BEA-58938F0F8607</key>
+		<key>693B4791-692C-4DBB-BF82-5C9BE3503BAB</key>
 		<string>../..</string>
 		<key>991AFBA5-39E2-40CF-AF54-6933FA866C34</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>file:///Users/randy/dev/iOS7/BeaconInspector/</string>
+	<string>https://github.com/tkwny/BeaconInspector.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -36,7 +36,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>64EFA763-31CF-4EDF-8BEA-58938F0F8607</string>
+			<string>693B4791-692C-4DBB-BF82-5C9BE3503BAB</string>
 			<key>IDESourceControlWCCName</key>
 			<string>BeaconInspector</string>
 		</dict>
